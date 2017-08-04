@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewPagerExample</string>
+
+    <string name="tab2_fragment">Tab 2 fragment</string>
+    <string name="tab3_fragment">Tab 3 fragment</string>
+    <string name="tab4_fragment">Tab 4 fragment</string>
+
+    <string name="stack1_button">Next Fragment</string>
+    <string name="stack2_fragment">Stack 2 fragment</string>
+
+</resources>
